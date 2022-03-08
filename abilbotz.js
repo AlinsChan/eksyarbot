@@ -67,19 +67,19 @@ const simple = require('./lib/simple.js')
 
      //---Settings---//
 
-let botname = '_｢ AbilBotz 0.2 ｣ 冬_' //NAMA BOT
-let lolkey = 'Modal' //Ganti Pake Api Lu Sendiri Biar Limitnya Gak Cepet Abis , Login Di api.lolhuman.xzy Untuk Mendapatkan Api Gratis
-let zekskey = 'Modal' // Ganti Pake Api Lu Sendiri Biar Limitnya Gak Cepet Abis , Login Di zeks.me Untuk Mendapatkan Api Gratis
-let ownername = '_｢ AbilGanz ✘ ｣_' //NAMA OWNER
-let owner = '6282293295376' // NOMOR OWNER
+let botname = '_｢ EKSYARBOT 0.1 ｣ 冬_' //NAMA BOT
+let lolkey = '923693a1e95d5525b720c22b' //Ganti Pake Api Lu Sendiri Biar Limitnya Gak Cepet Abis , Login Di api.lolhuman.xzy Untuk Mendapatkan Api Gratis
+let zekskey = 'FLPkoqZjOXmXOyU5Ke0XsTOe2sP' // Ganti Pake Api Lu Sendiri Biar Limitnya Gak Cepet Abis , Login Di zeks.me Untuk Mendapatkan Api Gratis
+let ownername = '_｢ EKSYARBOT ✘ ｣_' //NAMA OWNER
+let owner = '6289699805903' // NOMOR OWNER
 let symbol = '*冬*'
-let faketeks = `*_｢ AbilBotz 0.2 ｣ 冬_*` 
+let faketeks = `*_｢ EKSYARBOT 0.1 ｣ 冬_*` 
 
      //---Donasi---//
 
-let ovo = 'http://bit.ly/qrovo'
-let gopay = 'http://bit.ly/qrgopay'
-let allpay = 'http://bit.ly/Allpay'
+let ovo = 'http://bit.ly/'
+let gopay = 'http://bit.ly/'
+let allpay = 'http://bit.ly/'
 
 banChats = true; 
 readGc = true; 
